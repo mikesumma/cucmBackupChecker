@@ -1,0 +1,5 @@
+hostname,ip
+CUCM Publisher,192.168.1.10
+CUCM Subscriber,192.168.1.11
+Unity1,192.168.1.12
+Unity2,192.168.1.13
